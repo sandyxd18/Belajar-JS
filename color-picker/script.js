@@ -7,4 +7,4 @@ document.getElementById("colorInput").addEventListener("input", function(event) 
 
     // Update the background color of the display box
     document.getElementById("colorDisplay").style.backgroundColor = selectedColor;
-})
+});
